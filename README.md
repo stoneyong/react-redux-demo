@@ -1,14 +1,11 @@
 # redux-todoList
 
-使用redux重新改写todoList，统一管理state状态
+使用redux编写todoList,统一管理state状态
 
 ### 搭建工具
 
 使用react官方脚手架create-react-app
 
-### 更新记录 
-
-3/23 添加注释，ES6语法，简单样式美化
 
 ### 总结
 
